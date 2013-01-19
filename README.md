@@ -1,4 +1,6 @@
 python-us
 =========
 
-This repository has moved to github.com/unitedstates
+This project has moved to:
+
+https://github.com/unitedstates/python-us
